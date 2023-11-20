@@ -1,4 +1,4 @@
----
+---+
 #----------------------------------------------------------------------------------------------------------------------
 # CHART PARAMETERS
 # This file declares the configuration input values for the k8s-service Helm chart.

@@ -14,7 +14,7 @@ containerPorts:
 containerCommand: 
   - sh
   - -c
-  - sleep 1h
+  # - sleep 1h
 
 
 podSecurityContext:
